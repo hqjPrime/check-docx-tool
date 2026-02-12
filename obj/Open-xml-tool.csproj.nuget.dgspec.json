@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\A_HQJ_PersonWorkspace\\B_HQJ_CS_Libraty\\A资源-docx微软官方验证工具\\Demo\\Open-xml-tool\\Open-xml-tool.csproj": {}
+  },
+  "projects": {
+    "E:\\A_HQJ_PersonWorkspace\\B_HQJ_CS_Libraty\\A资源-docx微软官方验证工具\\Demo\\Open-xml-tool\\Open-xml-tool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\A_HQJ_PersonWorkspace\\B_HQJ_CS_Libraty\\A资源-docx微软官方验证工具\\Demo\\Open-xml-tool\\Open-xml-tool.csproj",
+        "projectName": "Open-xml-tool",
+        "projectPath": "E:\\A_HQJ_PersonWorkspace\\B_HQJ_CS_Libraty\\A资源-docx微软官方验证工具\\Demo\\Open-xml-tool\\Open-xml-tool.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\A_HQJ_PersonWorkspace\\B_HQJ_CS_Libraty\\A资源-docx微软官方验证工具\\Demo\\Open-xml-tool\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "d:\\Microsoft Visual Studio\\SDK\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

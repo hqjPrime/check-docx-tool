@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YdQOFSSQ+/8=",
+  "success": true,
+  "projectFilePath": "E:\\A_HQJ_PersonWorkspace\\B_HQJ_CS_Libraty\\A资源-docx微软官方验证工具\\Demo\\Open-xml-tool\\Open-xml-tool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\documentformat.openxml\\3.4.1\\documentformat.openxml.3.4.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\documentformat.openxml.framework\\3.4.1\\documentformat.openxml.framework.3.4.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.io.packaging\\8.0.1\\system.io.packaging.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
